@@ -1,3 +1,6 @@
 #!/bin/bash
 
-#the addition of twpo numbers 
+#the addition of twpo numbers
+#
+#added change as beloa 
+x=a+b 
